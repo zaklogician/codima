@@ -1,3 +1,4 @@
 # Exclude intermediate files
 *.dat
 results/
+# however, comments should be on separate lines
